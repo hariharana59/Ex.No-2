@@ -1,7 +1,7 @@
 # Ex.No :2
 # GENERATION OF LEXICAL TOKENS USING LEX/FLEX TOOL
-## NAME : Popuri Aditya Naga Sai
-## Reg No : 212223110036
+## NAME : Hariharan A
+## Reg No : 212223110013
 
 ## AIM
  To write a lex program to implement lexical analyzer to recognize a few patterns.
