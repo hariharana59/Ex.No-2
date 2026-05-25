@@ -2,7 +2,7 @@
 # GENERATION OF LEXICAL TOKENS USING LEX/FLEX TOOL
 ## NAME : Hariharan A
 ## Reg No : 212223110013
-
+## Date:12.05.2026
 ## AIM
  To write a lex program to implement lexical analyzer to recognize a few patterns.
 ## ALGORITHM
